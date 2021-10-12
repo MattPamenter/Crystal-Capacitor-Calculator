@@ -1,5 +1,5 @@
 # Crystal-Capacitor-Calculator
-A GUI tool for calculating capacitor values for crystal osilators
+A GUI tool for calculating capacitor values for crystal oscillators
 
 Build using Qt Creator or qmake
 
